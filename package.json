@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "usb": "^2.1.2",
-    "crc-32": "^1.2.1"
+    "crc-32": "^1.2.1",
+    "pngjs": "^6.0.0"
   }
 }

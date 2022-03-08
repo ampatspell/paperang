@@ -1,6 +1,6 @@
 ## Paperang P2
 
-Paperang P2 (USB) printing in JavaScript proof of concept.
+Working Paperang P2 (USB) printing example in JavaScript
 
 ```
 # print image

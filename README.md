@@ -11,3 +11,6 @@ $ node ./lib/index
 # refresh / polling test
 # node ./lib/refresh-test
 ```
+
+![scan](https://github.com/ampatspell/paperang/blob/master/images/scan.png?raw=true)
+example image processed with floyd-steinberg
